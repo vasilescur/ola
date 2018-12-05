@@ -28,6 +28,12 @@ To use, simply run:
 ola
 ```
 
+You can also pipe output to other programs. For example:
+
+```bash
+ola | cowsay
+```
+
 The quotes file may be configured. It is stored at `/etc/ola/quotes.txt`.
 
 ## Contributing
