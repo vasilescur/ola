@@ -1,6 +1,8 @@
 # ola
 CLI tool to generate ola quotes.
 
+<img width="608" alt="screenshot of tool" src="https://user-images.githubusercontent.com/10100323/49537951-4d46c080-f898-11e8-959b-9f152f2a0ffb.png">
+
 ## Installation
 
 Prerequisite: Python 2
