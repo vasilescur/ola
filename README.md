@@ -82,7 +82,7 @@ Pull requests are welcome. Please submit an issue if any bugs are encountered.
 
 Created by Radu Vasilescu.
 
-Some quotes are sourced from here: [ola Quotes from CS 101](https://docs.google.com/document/d/1VGBr8D0jMmKrKgaDSdvMBAx9_EIu3jrYrjnbfnDS9Qk/edit?fbclid=IwAR1kZdFZo1wgNvPp3zBrpRTO_1EOTHPTHsf1AWVFc2KBZPU1WsG8Cga_vq4)
+Many of the quotes are sourced from here: [ola Quotes from CS 101](https://docs.google.com/document/d/1VGBr8D0jMmKrKgaDSdvMBAx9_EIu3jrYrjnbfnDS9Qk/edit?fbclid=IwAR1kZdFZo1wgNvPp3zBrpRTO_1EOTHPTHsf1AWVFc2KBZPU1WsG8Cga_vq4)
 
 Others are added by me.
 
