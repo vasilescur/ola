@@ -11,7 +11,7 @@ def random_line(file):
         line = aline
     return line
 
-QUOTES_FILE = 'quotes.txt'
+QUOTES_FILE = '/etc/ola/quotes.txt'
 
 # Custom quotes files
 if len(sys.argv) is 2:  # 'python3' is already the 1st one
