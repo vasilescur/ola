@@ -1,0 +1,25 @@
+#!/usr/bin/python
+
+import random
+import sys
+
+# Gets a random line from a file
+def random_line(file):
+    line = next(file)
+    for num, aline in enumerate(file, 2):
+        if random.randrange(num): continue
+        line = aline
+    return line
+
+QUOTES_FILE = 'quotes.txt'
+
+# Custom quotes files
+if len(sys.argv) is 2:  # 'python3' is already the 1st one
+    QUOTES_FILE = sys.argv[1]
+
+file_handle = open(QUOTES_FILE)
+
+message = random_line(file_handle)
+
+print message 
+exit(0)
