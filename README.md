@@ -42,6 +42,14 @@ To use, simply run:
 ola
 ```
 
+If you want to use a different quotes source file, pass the path as an argument:
+
+```bash
+ola my_other_quotes.txt
+```
+
+Quote files are formatted as one quote per line.
+
 You can also pipe output to other programs. For example:
 
 ```bash
@@ -53,6 +61,9 @@ The quotes file may be configured. It is stored at `/etc/ola/quotes.txt`.
 ### Windows
 
 At the command line, run `python ola.py` from the repo's folder.
+
+*Note*: Not tested, but this might break the ability to pass custom files as arguments (or might break the whole thing). If this is the case, maybe try find a fix by editing the `sys.argsv` section of the code.
+
 
 ## But why Python 2?
 
