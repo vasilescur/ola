@@ -31,9 +31,10 @@ Clone or download the repository.
 
 Rename the `ola` file to `ola.py`.
 
-At the command line, run `python ola.py` from the repo's folder.
 
 ## Usage
+
+### MacOS or Linux:
 
 To use, simply run:
 
@@ -48,6 +49,10 @@ ola | cowsay
 ```
 
 The quotes file may be configured. It is stored at `/etc/ola/quotes.txt`.
+
+### Windows
+
+At the command line, run `python ola.py` from the repo's folder.
 
 ## Contributing
 
