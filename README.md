@@ -25,7 +25,7 @@ sudo ./install.sh
 
 You may then delete the `ola` folder into which you cloned the repo.
 
-### Insatlling on Windows
+### Installing on Windows
 
 Clone or download the repository.
 
