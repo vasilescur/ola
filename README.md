@@ -5,9 +5,14 @@ CLI tool to generate quotes said by Professor Astrachan.
 
 ## Installation
 
-Prerequisite: Python 2
+### Requirements:
 
-Currently only supported on MacOS and Linux.
+  - Must have Python 2 installed
+  - `/usr/local/bin` must be on the path
+  - `/usr/bin` must be on the path
+  - Python 2's executable must be at `/usr/bin/python`
+
+### Installing on MacOS or Linux:
 
 To install, run the following commands:
 
@@ -19,6 +24,14 @@ sudo ./install.sh
 ```
 
 You may then delete the `ola` folder into which you cloned the repo.
+
+### Insatlling on Windows
+
+Clone or download the repository.
+
+Rename the `ola` file to `ola.py`.
+
+At the command line, run `python ola.py` from the repo's folder.
 
 ## Usage
 
